@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "OKP Cipher",
+  "base_artist": "Avantgardey",
+  "createdAt": "2025-12-23T13:18:10.290832Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OKP Cipher",
+      "artist": "Avantgardey",
+      "has_synced": false,
+      "path": "select/pl_01_OKP_Cipher_Avantgardey.txt"
+    }
+  ]
+}
